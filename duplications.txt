@@ -1,0 +1,16 @@
+Duplication 1:
+Code:
+11: function helloWorld() {
+12:     return 'Hello World!';
+13: }
+
+Duplication 2:
+Code:
+39:     for (let product of products) {
+40:         if(true) {
+41:             if (product.name === productName && product.stock > 0) {
+42:                 return true;
+43:             }
+44:         }
+45:     }
+
