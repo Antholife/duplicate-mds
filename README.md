@@ -1,1 +1,1 @@
-# test-mds
+# duplicate-mds
